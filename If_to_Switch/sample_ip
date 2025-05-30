@@ -1,0 +1,6 @@
+if(a==1)
+printf("%d",a);
+else if(a==2)
+printf("%d",a+1);
+else
+printf("default");
