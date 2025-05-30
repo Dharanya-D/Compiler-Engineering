@@ -9,3 +9,4 @@ OR
 do{
 a=a+c;
 }while(A<b);
+
