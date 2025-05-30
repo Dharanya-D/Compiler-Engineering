@@ -1,0 +1,13 @@
+void swap(int a, int b){
+A=B+C;
+if (a>b+C){
+A=B+C;
+}
+else{
+a=a*100;
+}
+while(a>b){
+b++;
+}
+}
+VALID
